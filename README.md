@@ -1,4 +1,4 @@
-# Thesis_DSS
+# Thesis Mirja Vink
 
 Student name: Mirja Vink
 
