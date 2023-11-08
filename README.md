@@ -14,9 +14,13 @@ Experiments
 
 In the thesis, four experiments were conducted for the model. Each notebook is named after the experiment for the Mvitv2 model. 
 
-Reference to the specific libraries that were used in this code
+Reference to the specific libraries and github repositories that were used in this code: 
 
 -  Takuya Akiba, Shotaro Sano, Toshihiko Yanase, Takeru Ohta, and Masanori Koyama. 2019. Optuna: A Next-generation Hyperparameter Optimization Framework. In KDD (arXiv).
 
 - Erdem Akca. (2023). ThesisErdemAkca. GitHub. URL: https://github.com/Erdem0900/ThesisErdemAkcahttps://github.com/Erdem0900/ThesisErdemAkca
+
+- Shayana Libhatti (2021)Video Augmentation Code. URL: https://github.com/shayanalibhatti/Video-Augmentation-Code
+
+- 
 
