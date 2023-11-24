@@ -13,7 +13,7 @@ Pre-processing: This folder contains the pre-processing notebook that was used f
 
 In the thesis, a couple experiments were conducted. First of all, different temporal framelengths were chosen and trimmed to see the impact on the F1-score. The code for these are available in the folder 'Frames'. The full videos were also used as input for the model and on these full video augmentation and random oversampling techniques were employed. These are all available in the folder 'Full set'. 
 
-_Reference to the specific libraries and github repositories that were used in this code: _
+_Reference to the specific libraries and github repositories that were used in this code:_
 
 -  Takuya Akiba, Shotaro Sano, Toshihiko Yanase, Takeru Ohta, and Masanori Koyama. 2019. Optuna: A Next-generation Hyperparameter Optimization Framework. In KDD (arXiv).
 
