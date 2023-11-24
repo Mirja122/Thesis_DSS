@@ -17,6 +17,8 @@ _Reference to the specific libraries and github repositories that were used in t
 
 -  Takuya Akiba, Shotaro Sano, Toshihiko Yanase, Takeru Ohta, and Masanori Koyama. 2019. Optuna: A Next-generation Hyperparameter Optimization Framework. In KDD (arXiv).
 
+- Optuna. (2023). Optuna: A hyperparameter optimization framework. GitHub. https://github.com/optuna/optuna
+
 - Erdem Akca. (2023). ThesisErdemAkca. GitHub. URL: https://github.com/Erdem0900/ThesisErdemAkcahttps://github.com/Erdem0900/ThesisErdemAkca
 
 - Shayana Libhatti (2021)Video Augmentation Code. URL: https://github.com/shayanalibhatti/Video-Augmentation-Code
