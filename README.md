@@ -9,9 +9,11 @@ This repository contains the code used in my thesis titled _"High five, down low
 
 Exploratory data analysis: This notebook contains the code that was used for the exploratory data analysis. 
 
-Pre-processing: This folder contains the pre-processing notebook that was used for the trimming of the frames for different temporal lengths. This also contains the augmentation and the random oversampling used on the full videos.  
+Pre-processing: This folder contains the pre-processing notebook that was used for the trimming of the frames for different temporal lengths. This also contains the augmentation and the random oversampling used on the full videos. 
 
-In the thesis, a couple experiments were conducted. First of all, different temporal framelengths were chosen and trimmed to see the impact on the F1-score. The code for these are available in the folder 'Frames'. The full videos were also used as input for the model and on these full video augmentation and random oversampling techniques were employed. These are all available in the folder 'Full set'. 
+Frames: Different temporal framelengths were chosen and trimmed to see the impact on the evaluation metrics. The code for these are available in the folder 'Frames'. 
+
+Full set: The full videos were also used as input for the model and on these full video augmentation and random oversampling techniques were employed. These are all available in the folder 'Full set'. 
 
 _Reference to the specific libraries and github repositories that were used in this code:_
 
