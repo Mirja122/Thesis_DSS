@@ -1,6 +1,7 @@
 # Thesis Mirja Vink
 
 Student name: Mirja Vink
+
 Student number: 760031
 
 This repository contains the code used in my thesis titled _"High five, down low, too slow: Anticipating haptic greeting with multiscale vision transformers"_. The research involves different variations of one model used on different temporal lengths of the haptic greetings dataset. The model used is called MviTv2. 
